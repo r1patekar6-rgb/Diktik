@@ -1,0 +1,7 @@
+{
+  "name": "AI Diktik",
+  "description": "A powerful multi-model AI chat interface featuring deep reasoning and web search capabilities, similar to DeepSeek.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
